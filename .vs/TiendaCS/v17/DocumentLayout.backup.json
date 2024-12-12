@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\israa\\source\\repos\\TiendaCS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{14E565F4-3FE5-4A79-BAE0-F110A62A525F}|TiendaCS\\TiendaCS.csproj|c:\\users\\israa\\source\\repos\\tiendacs\\tiendacs\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14E565F4-3FE5-4A79-BAE0-F110A62A525F}|TiendaCS\\TiendaCS.csproj|solutionrelative:tiendacs\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14E565F4-3FE5-4A79-BAE0-F110A62A525F}|TiendaCS\\TiendaCS.csproj|C:\\Users\\israa\\source\\repos\\TiendaCS\\tiendacs\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{14E565F4-3FE5-4A79-BAE0-F110A62A525F}|TiendaCS\\TiendaCS.csproj|solutionrelative:tiendacs\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14E565F4-3FE5-4A79-BAE0-F110A62A525F}|TiendaCS\\TiendaCS.csproj|c:\\users\\israa\\source\\repos\\tiendacs\\tiendacs\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14E565F4-3FE5-4A79-BAE0-F110A62A525F}|TiendaCS\\TiendaCS.csproj|solutionrelative:tiendacs\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14E565F4-3FE5-4A79-BAE0-F110A62A525F}|TiendaCS\\TiendaCS.csproj|C:\\Users\\israa\\source\\repos\\TiendaCS\\tiendacs\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{14E565F4-3FE5-4A79-BAE0-F110A62A525F}|TiendaCS\\TiendaCS.csproj|solutionrelative:tiendacs\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14E565F4-3FE5-4A79-BAE0-F110A62A525F}|TiendaCS\\TiendaCS.csproj|c:\\users\\israa\\source\\repos\\tiendacs\\tiendacs\\gestorarchivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14E565F4-3FE5-4A79-BAE0-F110A62A525F}|TiendaCS\\TiendaCS.csproj|solutionrelative:tiendacs\\gestorarchivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14E565F4-3FE5-4A79-BAE0-F110A62A525F}|TiendaCS\\TiendaCS.csproj|c:\\users\\israa\\source\\repos\\tiendacs\\tiendacs\\listacirculardoble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14E565F4-3FE5-4A79-BAE0-F110A62A525F}|TiendaCS\\TiendaCS.csproj|solutionrelative:tiendacs\\listacirculardoble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14E565F4-3FE5-4A79-BAE0-F110A62A525F}|TiendaCS\\TiendaCS.csproj|c:\\users\\israa\\source\\repos\\tiendacs\\tiendacs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14E565F4-3FE5-4A79-BAE0-F110A62A525F}|TiendaCS\\TiendaCS.csproj|solutionrelative:tiendacs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14E565F4-3FE5-4A79-BAE0-F110A62A525F}|TiendaCS\\TiendaCS.csproj|c:\\users\\israa\\source\\repos\\tiendacs\\tiendacs\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14E565F4-3FE5-4A79-BAE0-F110A62A525F}|TiendaCS\\TiendaCS.csproj|solutionrelative:tiendacs\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14E565F4-3FE5-4A79-BAE0-F110A62A525F}|TiendaCS\\TiendaCS.csproj|c:\\users\\israa\\source\\repos\\tiendacs\\tiendacs\\nodoventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14E565F4-3FE5-4A79-BAE0-F110A62A525F}|TiendaCS\\TiendaCS.csproj|solutionrelative:tiendacs\\nodoventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\israa\\source\\repos\\TiendaCS\\TiendaCS\\Form2.cs",
+              "RelativeDocumentMoniker": "TiendaCS\\Form2.cs",
+              "ToolTip": "C:\\Users\\israa\\source\\repos\\TiendaCS\\TiendaCS\\Form2.cs",
+              "RelativeToolTip": "TiendaCS\\Form2.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAADwv3EAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T04:24:56.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\israa\\source\\repos\\TiendaCS\\TiendaCS\\Form1.cs",
+              "RelativeDocumentMoniker": "TiendaCS\\Form1.cs",
+              "ToolTip": "C:\\Users\\israa\\source\\repos\\TiendaCS\\TiendaCS\\Form1.cs",
+              "RelativeToolTip": "TiendaCS\\Form1.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T04:24:44.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Venta.cs",
+              "DocumentMoniker": "C:\\Users\\israa\\source\\repos\\TiendaCS\\TiendaCS\\Venta.cs",
+              "RelativeDocumentMoniker": "TiendaCS\\Venta.cs",
+              "ToolTip": "C:\\Users\\israa\\source\\repos\\TiendaCS\\TiendaCS\\Venta.cs",
+              "RelativeToolTip": "TiendaCS\\Venta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T04:24:26.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\israa\\source\\repos\\TiendaCS\\TiendaCS\\Form2.cs",
+              "RelativeDocumentMoniker": "TiendaCS\\Form2.cs",
+              "ToolTip": "C:\\Users\\israa\\source\\repos\\TiendaCS\\TiendaCS\\Form2.cs [Dise\u00F1o]",
+              "RelativeToolTip": "TiendaCS\\Form2.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T04:24:18.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\israa\\source\\repos\\TiendaCS\\TiendaCS\\Program.cs",
+              "RelativeDocumentMoniker": "TiendaCS\\Program.cs",
+              "ToolTip": "C:\\Users\\israa\\source\\repos\\TiendaCS\\TiendaCS\\Program.cs",
+              "RelativeToolTip": "TiendaCS\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T04:23:23.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NodoVenta.cs",
+              "DocumentMoniker": "C:\\Users\\israa\\source\\repos\\TiendaCS\\TiendaCS\\NodoVenta.cs",
+              "RelativeDocumentMoniker": "TiendaCS\\NodoVenta.cs",
+              "ToolTip": "C:\\Users\\israa\\source\\repos\\TiendaCS\\TiendaCS\\NodoVenta.cs",
+              "RelativeToolTip": "TiendaCS\\NodoVenta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T04:23:20.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ListaCircularDoble.cs",
+              "DocumentMoniker": "C:\\Users\\israa\\source\\repos\\TiendaCS\\TiendaCS\\ListaCircularDoble.cs",
+              "RelativeDocumentMoniker": "TiendaCS\\ListaCircularDoble.cs",
+              "ToolTip": "C:\\Users\\israa\\source\\repos\\TiendaCS\\TiendaCS\\ListaCircularDoble.cs",
+              "RelativeToolTip": "TiendaCS\\ListaCircularDoble.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T04:23:16.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GestorArchivo.cs",
+              "DocumentMoniker": "C:\\Users\\israa\\source\\repos\\TiendaCS\\TiendaCS\\GestorArchivo.cs",
+              "RelativeDocumentMoniker": "TiendaCS\\GestorArchivo.cs",
+              "ToolTip": "C:\\Users\\israa\\source\\repos\\TiendaCS\\TiendaCS\\GestorArchivo.cs",
+              "RelativeToolTip": "TiendaCS\\GestorArchivo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T04:23:10.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\israa\\source\\repos\\TiendaCS\\TiendaCS\\Form1.cs",
+              "RelativeDocumentMoniker": "TiendaCS\\Form1.cs",
+              "ToolTip": "C:\\Users\\israa\\source\\repos\\TiendaCS\\TiendaCS\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "TiendaCS\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T04:22:22.622Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
