@@ -30,14 +30,14 @@ namespace TiendaCS
             }
         }
 
-        public bool EliminarVenta(string nombreProducto)
+        public bool EliminarVenta(int id)
         {
             if (_cabeza == null) return false;
 
             var actual = _cabeza;
             do
             {
-                if (actual.Venta.Producto.Equals(nombreProducto, StringComparison.OrdinalIgnoreCase))
+                if (actual.Venta.ID == id) 
                 {
                     if (actual == _cabeza && _cabeza.Siguiente == _cabeza)
                     {
@@ -73,11 +73,12 @@ namespace TiendaCS
             return ventas;
         }
 
-        public bool ModificarVenta(string nombreProducto, Venta nuevaVenta)
+        
+        public bool ModificarVenta(int id, Venta nuevaVenta)
         {
             if (_cabeza == null) return false;
 
-            if (EliminarVenta(nombreProducto))
+            if (EliminarVenta(id))
             {
                 AgregarVenta(nuevaVenta);
                 return true;
@@ -86,14 +87,15 @@ namespace TiendaCS
             return false;
         }
 
-        public Venta BuscarVenta(string nombreProducto)
+       
+        public Venta BuscarVenta(int id)
         {
             if (_cabeza == null) return null;
 
             var actual = _cabeza;
             do
             {
-                if (actual.Venta.Producto.Equals(nombreProducto, StringComparison.OrdinalIgnoreCase))
+                if (actual.Venta.ID == id) 
                 {
                     return actual.Venta;
                 }
@@ -102,5 +104,56 @@ namespace TiendaCS
 
             return null;
         }
+        public void OrdenarVentasAscendente()
+        {
+            if (_cabeza == null || _cabeza.Siguiente == _cabeza) return; // Si la lista está vacía o tiene un solo elemento.
+
+            bool intercambiado;
+            do
+            {
+                intercambiado = false;
+                var actual = _cabeza;
+                do
+                {
+                    if (actual.Venta.ID > actual.Siguiente.Venta.ID)
+                    {
+                        // Intercambiar las ventas
+                        Venta temp = actual.Venta;
+                        actual.Venta = actual.Siguiente.Venta;
+                        actual.Siguiente.Venta = temp;
+
+                        intercambiado = true;
+                    }
+                    actual = actual.Siguiente;
+                } while (actual.Siguiente != _cabeza);
+            } while (intercambiado);
+        }
+
+        public void OrdenarVentasDescendente()
+        {
+            if (_cabeza == null || _cabeza.Siguiente == _cabeza) return; // Si la lista está vacía o tiene un solo elemento.
+
+            bool intercambiado;
+            do
+            {
+                intercambiado = false;
+                var actual = _cabeza;
+                do
+                {
+                    if (actual.Venta.ID < actual.Siguiente.Venta.ID)
+                    {
+                        // Intercambiar las ventas
+                        Venta temp = actual.Venta;
+                        actual.Venta = actual.Siguiente.Venta;
+                        actual.Siguiente.Venta = temp;
+
+                        intercambiado = true;
+                    }
+                    actual = actual.Siguiente;
+                } while (actual.Siguiente != _cabeza);
+            } while (intercambiado);
+        }
+
+
     }
 }

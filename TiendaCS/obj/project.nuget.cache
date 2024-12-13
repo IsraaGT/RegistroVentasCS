@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "m81OjvU+ezc=",
+  "dgSpecHash": "SwciAcgsmjA=",
   "success": true,
   "projectFilePath": "C:\\Users\\israa\\source\\repos\\TiendaCS\\TiendaCS\\TiendaCS.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\israa\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -15,6 +15,7 @@ namespace TiendaCS
 
         private void btnRegistrarVenta_Click(object sender, EventArgs e)
         {
+            int id = int.Parse(txtID.Text);
             DateTime fecha = dtpFecha.Value;
             string nombreProducto = txtProducto.Text;
             decimal precio;
@@ -28,7 +29,7 @@ namespace TiendaCS
 
             cantidad = (int)nudCantidad.Value;
 
-            Venta nuevaVenta = new Venta(fecha, nombreProducto, precio, cantidad);
+            Venta nuevaVenta = new Venta(id, fecha, nombreProducto, precio, cantidad);
 
             ventasLista.AgregarVenta(nuevaVenta);
 

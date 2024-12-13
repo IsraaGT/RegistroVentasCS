@@ -16,3 +16,6 @@ C:\Users\israa\source\repos\TiendaCS\TiendaCS\obj\Debug\net8.0-windows\TiendaCS.
 C:\Users\israa\source\repos\TiendaCS\TiendaCS\obj\Debug\net8.0-windows\ref\TiendaCS.dll
 C:\Users\israa\source\repos\TiendaCS\TiendaCS\obj\Debug\net8.0-windows\TiendaCS.Form1.resources
 C:\Users\israa\source\repos\TiendaCS\TiendaCS\obj\Debug\net8.0-windows\TiendaCS.Form2.resources
+C:\Users\israa\source\repos\TiendaCS\TiendaCS\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\israa\source\repos\TiendaCS\TiendaCS\obj\Debug\net8.0-windows\TiendaCS.csproj.AssemblyReference.cache
+C:\Users\israa\source\repos\TiendaCS\TiendaCS\obj\Debug\net8.0-windows\TiendaCS.csproj.Up2Date
